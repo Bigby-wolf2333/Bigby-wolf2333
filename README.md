@@ -2,15 +2,15 @@
 
 ![LinkedIn Banner](New_Banner.png)
 
-Hello, I'm Junwei. Data Analytic Engineer with expertise in ETL, DataWarehouse, SQL query optimization, Spark and Kalfa.
-Here are the tools I used most frequently
-- Store data in PostgreSQL and Azure cloud
-- Bulid DataWarehouse in Google.
-- Orchestrate data flow by Airflow.
+Hello, I'm Junwei and I prefer to be referred to as 'Data Analytics Engineer', since I am able to work as Data Analyst and Data Engineer both.
+Here are the tools I used most frequently to finish an end to end data work:
+- Store data in PostgreSQL & Azure.
+- Mainipulate data by SQL and Python.
 - Process big data with PySpark.
 - Handle streaming data with Kafka.
-- Mainipulate data by SQL and Python.
-- Developing dashboards on Tableau.
+- Bulid DataWarehouse in DBT & Synapse Analytics.
+- Orchestrate data flow by Airflow.
+- Design dashboards on Tableau.
 
 ### 📚 Projects
 
