@@ -14,7 +14,7 @@ Here are the tools I used most frequently to hold an end to end data work:
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](README.md).
+Welcome to my portfolio, where I showcase my [projects]([README.md](https://github.com/Bigby-wolf2333/Portfolio-Guide/blob/76d7672425840d23ec3ad81c2c14d1bb7b7c92f5/README.md)).
 
 ### 🛠️ Tools
 
