@@ -25,6 +25,6 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/katie
 
 ### 👋🏻 Connect with Me
 
-- [Linkedin](https://www.linkedin.com/in/junwz/)
+- [LinkedIn](https://www.linkedin.com/in/junwz/)
 - Tel: +1 213-706-6195
 - Mail: ayiayiyo@gmail.com
