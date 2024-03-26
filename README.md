@@ -1,6 +1,6 @@
 ## 🙋‍♂️ Introducing Myself
 
-![LinkedIn Banner](https://github.com/Bigby-wolf2333/Bigby-wolf2333/blob/main/Banner.png)
+![LinkedIn Banner](New_Banner.png)
 
 Hello, I'm Junwei. Data Analytic Engineer with expertise in ETL, DataWarehouse, SQL query optimization, Spark and Kalfa.
 Here are the tools I used most frequently
