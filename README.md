@@ -1,12 +1,16 @@
 ## 🙋‍♂️ Introducing Myself
 
-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
+![LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
 
 Hello, I'm Junwei. Data Analytic Engineer with expertise in ETL, DataWarehouse, SQL query optimization, Spark and Kalfa.
-- 
-- Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau and Looker Studio.
-- Data analysis and reporting using Google Sheets and Excel.
+Here are the tools I used most frequently
+- Store data in PostgreSQL and Azure cloud
+- Bulid DataWarehouse in Google.
+- Orchestrate data flow by Airflow.
+- Process big data with PySpark.
+- Handle streaming data with Kafka.
+- Mainipulate data by SQL and Python.
+- Developing dashboards on Tableau.
 
 ### 📚 Projects
 
