@@ -2,8 +2,8 @@
 
 ![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
 
-Hello, I'm Junwei. Data Engineer with expertise in ETL and DataWarehouse, SQL query optimization, Spark and Kalfa.
-- Querying data using SQL.
+Hello, I'm Junwei. Data Analytic Engineer with expertise in ETL, DataWarehouse, SQL query optimization, Spark and Kalfa.
+- 
 - Generate reports and perform ad-hoc data analysis using SQL.
 - Developing dashboards on Tableau and Looker Studio.
 - Data analysis and reporting using Google Sheets and Excel.
@@ -14,11 +14,13 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/katie
 
 ### 🛠️ Tools
 
-- Language: SQL, Python
-- Database: Google BigQuery, PostgreSQL, MySQL
-- Visualization: Tableau, Looker Studio
+- Language: SQL, Python, Scala
+- Database: PostgreSQL, MySQL, SQL Server
+- Cloud Service: Azure, AWS, GCP
+- Visualization: Tableau, Power BI
 
 ### 👋🏻 Connect with Me
 
-- [Linkedin](https://www.linkedin.com/in/katiehuangx/)
-- Hire me on [Upwork](https://www.upwork.com/freelancers/~016ea4ffe7d7d64c1d)
+- [Linkedin](https://www.linkedin.com/in/junwz/)
+- Tel: +1 213-706-6195
+- Mail: ayiayiyo@gmail.com
