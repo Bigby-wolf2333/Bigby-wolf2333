@@ -6,7 +6,7 @@ Hello, I'm Junwei and I prefer to be referred to as 'Data Analytics Engineer', s
 Here are the tools I used most frequently to finish an end to end data work:
 - Store data in PostgreSQL & Azure.
 - Mainipulate data by SQL and Python.
-- Process big data with PySpark.
+- Process big data via PySpark.
 - Handle streaming data with Kafka.
 - Bulid DataWarehouse in DBT & Synapse Analytics.
 - Orchestrate data flow by Airflow.
