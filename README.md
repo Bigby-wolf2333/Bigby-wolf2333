@@ -1,6 +1,6 @@
 ## 🙋‍♂️ Introducing Myself
 
-![LinkedIn Banner](banner.png)
+![LinkedIn Banner](Banner.png)
 
 Hello, I'm Junwei and I prefer to be referred to as 'Data Analytics Engineer', since I am able to work as Data Analyst and Data Engineer both.
 Here are the tools I used most frequently to hold an end to end data work:
