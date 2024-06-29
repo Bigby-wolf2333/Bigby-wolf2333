@@ -6,7 +6,7 @@ Hello, this is Junwei, a dedicated Data Analytics Engineer! I focus on building 
 
 ### 📚 Projects
 
-If you prefer "Talk is cheap Show me the code", please click here where I showcase my projects [projects](https://github.com/Bigby-wolf2333/Portfolio-Guide/blob/main/README.md).
+If you prefer "Talk is cheap Show me the code", please click here where I showcase my [projects](https://github.com/Bigby-wolf2333/Portfolio-Guide/blob/main/README.md).
 
 ### 🛠️ Tools
 
