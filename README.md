@@ -2,7 +2,7 @@
 
 ![LinkedIn Banner](Banner.png)
 
-Hello, this is Junwei, a dedicated Data Analytics Engineer! I focus on building reliable data workflow and enpowering data driven product.
+Hello, this is Junwei, a dedicated Data Analytics Engineer! I focus on building reliable data workflows and empowering data-driven products. Beyond tech, I excel at collaborating with XFN teams, benefiting my interdisciplinary background and experience.
 
 ### 📚 Projects
 
